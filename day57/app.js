@@ -1,0 +1,1 @@
+alert("Now i am learning Next.Js");
