@@ -1,0 +1,1 @@
+alert(" AI tools can make education more accessible to people with disabilities, offering tailored learning solutions that cater to different needs.")
