@@ -1,0 +1,1 @@
+alert("Alhamdullilah our react.js journey has been started");
