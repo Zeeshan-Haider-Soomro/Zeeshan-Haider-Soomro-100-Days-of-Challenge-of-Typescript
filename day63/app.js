@@ -1,0 +1,1 @@
+alert("Alhamdullilah our Next.js journey has been started");
