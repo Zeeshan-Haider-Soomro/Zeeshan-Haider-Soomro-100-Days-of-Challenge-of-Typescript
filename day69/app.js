@@ -1,0 +1,1 @@
+alert("Alumni meetup at mohata palace");
