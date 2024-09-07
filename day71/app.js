@@ -1,0 +1,1 @@
+alert("Next js 1 class has done")
