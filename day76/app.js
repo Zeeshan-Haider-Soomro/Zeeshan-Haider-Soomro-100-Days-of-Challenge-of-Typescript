@@ -1,0 +1,1 @@
+alert("Today our second next js class has been completed")
