@@ -16,7 +16,7 @@ function caseChange(str: string,){
     console.log(uppercase, lowercase);
 }
 
-caseChange("laibe Siddique")
+caseChange("zeeshan haider")
 
 // ********************************************
 
