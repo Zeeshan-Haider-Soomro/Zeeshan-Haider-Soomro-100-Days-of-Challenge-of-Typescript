@@ -4,7 +4,7 @@ var numbers = [1, 2, 3, 4, 5];
 var doubleNumber = numbers.map(function (number) { return number * 2; });
 console.log(doubleNumber);
 // QUESTION 56
-var mixArray = [78, "zeeshan", 43, "laiba", true, "56"];
+var mixArray = [78, "zeeshan", 43, "haider", true, "56"];
 var stringArray = mixArray.filter(function (items) { return typeof items === "string"; });
 console.log(stringArray);
 // QUESTION 57
