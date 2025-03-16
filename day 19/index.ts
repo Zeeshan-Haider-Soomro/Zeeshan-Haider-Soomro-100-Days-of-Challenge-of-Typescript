@@ -9,7 +9,7 @@ console.log(doubleNumber);
 
 // QUESTION 56
 
-let mixArray = [78, "zeeshan", 43, "laiba", true, "56"]
+let mixArray = [78, "zeeshan", 43, "haider", true, "56"]
 
 // filter method is use for filter same data type aur same thing from array !!
 let stringArray = mixArray.filter(items => typeof items === "string")
