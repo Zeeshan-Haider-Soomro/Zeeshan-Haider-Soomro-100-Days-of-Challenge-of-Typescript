@@ -10,7 +10,7 @@ function caseChange(str) {
     var lowercase = str.toLowerCase();
     console.log(uppercase, lowercase);
 }
-caseChange("laibe Siddique");
+caseChange("zeeshan haider");
 // ********************************************
 // QUESTION 84
 function replaceWord(sentence) {
