@@ -24,6 +24,6 @@ function compare(str1, str2) {
     var wordCompare = str1.toLowerCase() === str2.toLowerCase();
     return wordCompare;
 }
-console.log(compare('Laiba', 'laiba'));
+console.log(compare('haider', 'haider'));
 console.log(compare('Zeeshan', 'zeeshan'));
-console.log(compare('❤', '🖤'));
+console.log(compare('name', 'name'));
