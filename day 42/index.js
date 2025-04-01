@@ -1,6 +1,6 @@
 // QUESTION 01
 var obj = {
-    name: "LAIBA❤",
+    name: "haider",
     getName: function () {
         return this.name;
     }
@@ -8,14 +8,14 @@ var obj = {
 console.log(obj.getName());
 // **********************************************
 // QUESTION 02
-var afterNikkah = {
-    name: "Laiba ",
-    futureSpouse: "Zeeshan",
+var fullname = {
+    name: "haider ",
+    lastName: "Zeeshan",
     margeName: function () {
-        return this.name + this.futureSpouse;
+        return this.name + this.lastName;
     }
 };
-console.log(afterNikkah.margeName());
+console.log(fullname.margeName());
 // **********************************************
 // QUESTION 03
 var myObject = {
