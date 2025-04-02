@@ -1,9 +1,9 @@
 // call back function
 function parntFunction(abc) {
-    console.log("Zeeshan is here for serve you a tea meri jaan");
+    console.log("Zeeshan is here for serve you a tea");
     abc();
 }
-function bachaFunction() {
-    console.log("Laiba means Love of Zeeshan");
+function callFunction() {
+    console.log("haider for ever");
 }
-parntFunction(bachaFunction);
+parntFunction(callFunction);
