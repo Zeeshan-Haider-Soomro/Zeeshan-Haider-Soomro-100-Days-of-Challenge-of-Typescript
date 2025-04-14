@@ -1,1 +1,1 @@
-console.log("hello rimsha kesi ho meri sister ");
+console.log("console");
