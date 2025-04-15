@@ -1,1 +1,1 @@
-alert("Laiba");
+alert("console");
